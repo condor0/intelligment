@@ -1,1 +1,2 @@
 # intelligment
+#include<iostream>
